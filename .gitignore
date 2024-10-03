@@ -1,0 +1,14 @@
+# Backend (Django) ignores
+backend/mybackend/*.pyc
+backend/mybackend/__pycache__/
+backend/mybackend/db.sqlite3
+backend/mybackend/media/
+backend/venv/
+
+# Frontend (React) ignores
+frontend/myfrontend/node_modules/
+frontend/myfrontend/build/
+
+# IDE Files
+.vscode/
+.idea/
